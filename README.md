@@ -3,4 +3,5 @@
 
 Owl4, is a solution that makes the manual inspection process into a fully automated implemetation, without the need of human intervention.
 
-[Watch the video](https://drive.google.com/file/d/1rwWEnTUN_gERm_SQHpJEZr6bkxdQ4AKN/view?usp=sharing)
+Uploading y2mate.is - Owl4 Inter-ODC-ypyD0qEITDs-720p-1692874369.mp4…
+
